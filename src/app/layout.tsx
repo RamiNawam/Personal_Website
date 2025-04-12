@@ -1,8 +1,5 @@
 import '@/styles/globals.css';
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
-
-const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
   title: 'My Portfolio',
@@ -16,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} min-h-screen`}>
+      <body className="min-h-screen">
         <header className="bg-white dark:bg-gray-800 shadow-sm sticky top-0 z-10">
           <div className="container py-4 flex items-center justify-between">
             <a href="/" className="text-xl font-bold text-primary">Portfolio</a>

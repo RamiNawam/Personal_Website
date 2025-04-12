@@ -16,18 +16,19 @@ export default function About() {
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-8">About Me</h2>
           <div className="bg-gray-50 dark:bg-gray-700 rounded-xl p-6 md:p-8 shadow-md">
             <p className="text-lg mb-4">
-              Hello! I'm a passionate developer with a strong background in web development and a love for creating
-              intuitive, user-friendly applications. With expertise in modern technologies and frameworks, I strive
-              to build responsive and accessible solutions.
+              Hello! I'm Rami Nawam, a passionate programmer with a strong foundation in Python development and a keen interest
+              in creating interactive applications and games. I specialize in building engaging software that combines
+              functionality with user experience.
             </p>
             <p className="text-lg mb-4">
-              My journey in tech began several years ago, and I've since worked on a variety of projects ranging from
-              front-end development to full-stack applications. I enjoy solving complex problems and continuously
-              learning new skills to stay at the forefront of technology.
+              My journey in programming began with Python, where I've developed various mini-games and applications
+              that demonstrate my ability to create engaging user experiences. I'm particularly proud of my Python Mini Games
+              collection, which showcases my skills in game development and object-oriented programming.
             </p>
             <p className="text-lg">
-              When I'm not coding, you can find me exploring new technologies, contributing to open-source projects,
-              or enjoying outdoor activities to maintain a healthy work-life balance.
+              Currently, I'm expanding my expertise into web development, working with modern technologies like Next.js,
+              TypeScript, and Tailwind CSS. I'm always eager to learn new technologies and take on challenging projects
+              that push my boundaries and help me grow as a developer.
             </p>
           </div>
         </motion.div>
